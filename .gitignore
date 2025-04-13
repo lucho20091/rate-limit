@@ -1,1 +1,5 @@
 .qodo
+node_modules
+gitignore
+.env
+test.http
